@@ -20,3 +20,17 @@ An interactive historical timeline web project built using **HTML**, **CSS**, an
 - JavaScript (Vanilla)
 
 ## 📁 Project Structure
+├── index.html
+├── hist.css
+├── hist.js
+└── README.md
+
+bash
+Copy
+Edit
+
+## 🧩 How to Run Locally
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Roshani-software/Histrorical-Timeline.git
